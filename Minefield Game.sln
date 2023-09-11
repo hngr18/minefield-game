@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineField", "MineField\MineField.csproj", "{6887D169-03D4-4D63-A4A4-A07C0BFA3074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minefield.Tests", "Minefield.Tests\Minefield.Tests.csproj", "{4AF2F28D-A457-419C-90D2-AF52525A3F2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6887D169-03D4-4D63-A4A4-A07C0BFA3074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6887D169-03D4-4D63-A4A4-A07C0BFA3074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6887D169-03D4-4D63-A4A4-A07C0BFA3074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6887D169-03D4-4D63-A4A4-A07C0BFA3074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF2F28D-A457-419C-90D2-AF52525A3F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF2F28D-A457-419C-90D2-AF52525A3F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF2F28D-A457-419C-90D2-AF52525A3F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF2F28D-A457-419C-90D2-AF52525A3F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
